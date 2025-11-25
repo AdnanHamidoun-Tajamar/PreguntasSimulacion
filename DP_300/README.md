@@ -21,21 +21,21 @@ Todos los archivos PDF con preguntas de simulación deben seguir estrictamente e
 *   `DP300-SIM002-T05-010.pdf` (Simulación 2, Tópico 5, Pregunta 10)
 
 ### Lista de preguntas y reparticiones
-Q64 -> Andrews ✅
-Q65 -> Sergio Rincón
-Q66 -> Marcos
-Q67 -> Jorge
-Q68 -> Jorge
-Q69 -> Íñigo de Silva ✅
-Q122 -> Mario
-P123
-P124
-Q125-> Adnan
-P136
-P189
-P190
-P191
-P192
-P259 -> Iñigo Samuel
-Q260 -> Ethan ✅
-Q261 -> Nacho
+* Q64 -> Andrews ✅
+* Q65 -> Sergio Rincón
+* Q66 -> Marcos
+* Q67 -> Jorge
+* Q68 -> Jorge
+* Q69 -> Íñigo de Silva ✅
+* Q122 -> Mario
+* P123
+* P124
+* Q125-> Adnan
+* P136
+* P189
+* P190
+* P191
+* P192
+* P259 -> Iñigo Samuel
+* Q260 -> Ethan ✅
+* Q261 -> Nacho
